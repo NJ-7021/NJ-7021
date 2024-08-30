@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Jain</h1>
-<h3 align="center">A passionate frontend and analyst developer from India</h3>
+<h3 align="center">An enthusiastic frontend developer and analytical thinker from India</h3>
 
 - 🔭 I’m currently working on **Blockchain**
 
